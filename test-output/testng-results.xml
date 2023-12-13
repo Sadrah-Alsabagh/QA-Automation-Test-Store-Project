@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-11T09:07:29 EET" name="Default suite" finished-at="2023-12-11T09:07:31 EET" duration-ms="2156">
+  <suite started-at="2023-12-13T20:41:49 EET" name="Default suite" finished-at="2023-12-13T20:42:03 EET" duration-ms="13784">
     <groups>
     </groups>
-    <test started-at="2023-12-11T09:07:29 EET" name="Default test" finished-at="2023-12-11T09:07:31 EET" duration-ms="2156">
+    <test started-at="2023-12-13T20:41:49 EET" name="Default test" finished-at="2023-12-13T20:42:03 EET" duration-ms="13784">
       <class name="automationStoreTestCases.TestCases">
-        <test-method is-config="true" signature="Pre_Test()[pri:0, instance:automationStoreTestCases.TestCases@5b04476e]" started-at="2023-12-11T09:07:29 EET" name="Pre_Test" finished-at="2023-12-11T09:07:31 EET" duration-ms="2007" status="PASS">
+        <test-method is-config="true" signature="Pre_Test()[pri:0, instance:automationStoreTestCases.TestCases@51e8e6e6]" started-at="2023-12-13T20:41:49 EET" name="Pre_Test" finished-at="2023-12-13T20:41:57 EET" duration-ms="8711" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Pre_Test -->
-        <test-method signature="Check_Payment()[pri:0, instance:automationStoreTestCases.TestCases@5b04476e]" started-at="2023-12-11T09:07:31 EET" name="Check_Payment" finished-at="2023-12-11T09:07:31 EET" duration-ms="44" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Check_Payment -->
-        <test-method signature="Check_Sum()[pri:0, instance:automationStoreTestCases.TestCases@5b04476e]" started-at="2023-12-11T09:07:31 EET" name="Check_Sum" finished-at="2023-12-11T09:07:31 EET" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Check_Sum -->
-        <test-method signature="Navigate_To_Linkedin()[pri:0, instance:automationStoreTestCases.TestCases@5b04476e]" started-at="2023-12-11T09:07:31 EET" name="Navigate_To_Linkedin" finished-at="2023-12-11T09:07:31 EET" duration-ms="1" status="PASS">
+        <test-method signature="Navigate_To_Linkedin()[pri:0, instance:automationStoreTestCases.TestCases@51e8e6e6]" started-at="2023-12-13T20:41:58 EET" name="Navigate_To_Linkedin" finished-at="2023-12-13T20:42:03 EET" duration-ms="5032" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Navigate_To_Linkedin -->
-        <test-method is-config="true" signature="postTest()[pri:0, instance:automationStoreTestCases.TestCases@5b04476e]" started-at="2023-12-11T09:07:31 EET" name="postTest" finished-at="2023-12-11T09:07:31 EET" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="postTest()[pri:0, instance:automationStoreTestCases.TestCases@51e8e6e6]" started-at="2023-12-13T20:42:03 EET" name="postTest" finished-at="2023-12-13T20:42:03 EET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postTest -->
