@@ -8,5 +8,4 @@ public class Parameters {
 	WebDriver driver = new ChromeDriver();
 	String automation_store_url = "https://www.automationteststore.com/";
 	SoftAssert softassert = new SoftAssert();
-
 }
